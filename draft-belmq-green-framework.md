@@ -446,7 +446,7 @@ topology, as meters are connected to the wiring topology.  A
 typical example is meters that clamp onto the existing wiring.
 
 
-## Physical Meter with New Device
+### Physical Meter with New Device
 
 This covers the example of device connected to wall Power Outlet,
 with a Physical Meter placed in the wall Power Outlet, because the device
